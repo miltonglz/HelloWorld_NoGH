@@ -34,11 +34,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(58, 95);
+            this.label1.Location = new System.Drawing.Point(31, 98);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(119, 13);
+            this.label1.Size = new System.Drawing.Size(210, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Master with Hello World - Edited from GitHub";
+            this.label1.Text = "Master with Hello World - Edited from Local";
             // 
             // Form1
             // 
