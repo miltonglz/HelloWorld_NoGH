@@ -38,7 +38,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(107, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "New Hello World text";
+            this.label1.Text = "New Hello World text - Edited in GitHub";
             // 
             // Form1
             // 
